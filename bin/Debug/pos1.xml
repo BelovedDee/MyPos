@@ -1,0 +1,181 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+pos1
+</name>
+</assembly>
+<members>
+<member name="T:pos1.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:pos1.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:pos1.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:pos1.My.Resources.Resources.add">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pos1.My.Resources.Resources.add__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pos1.My.Resources.Resources.cashier">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pos1.My.Resources.Resources.no">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pos1.My.Resources.Resources.no1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:pos1.My.Resources.Resources.subtract">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:pos1.Pos_SystemDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:pos1.Pos_SystemDataSet.BillTblDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:pos1.Pos_SystemDataSet.CustomerTblDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:pos1.Pos_SystemDataSet.ProductTblDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:pos1.Pos_SystemDataSet.SupplierTblDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:pos1.Pos_SystemDataSet.BillTblRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:pos1.Pos_SystemDataSet.CustomerTblRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:pos1.Pos_SystemDataSet.ProductTblRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:pos1.Pos_SystemDataSet.SupplierTblRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:pos1.Pos_SystemDataSet.BillTblRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:pos1.Pos_SystemDataSet.CustomerTblRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:pos1.Pos_SystemDataSet.ProductTblRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:pos1.Pos_SystemDataSet.SupplierTblRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:pos1.Pos_SystemDataSetTableAdapters.BillTblTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:pos1.Pos_SystemDataSetTableAdapters.CustomerTblTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:pos1.Pos_SystemDataSetTableAdapters.ProductTblTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:pos1.Pos_SystemDataSetTableAdapters.SupplierTblTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:pos1.Pos_SystemDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:pos1.Pos_SystemDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(pos1.Pos_SystemDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:pos1.Pos_SystemDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(pos1.Pos_SystemDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:pos1.Pos_SystemDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(pos1.Pos_SystemDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:pos1.Pos_SystemDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:pos1.Pos_SystemDataSetTableAdapters.TableAdapterManager.UpdateAll(pos1.Pos_SystemDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:pos1.Pos_SystemDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:pos1.Pos_SystemDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,56 @@
+C:\Users\Delight Kapfudza\Videos\New folder (2)\pos1\bin\Debug\pos1.exe.config
+C:\Users\Delight Kapfudza\Videos\New folder (2)\pos1\bin\Debug\pos1.exe
+C:\Users\Delight Kapfudza\Videos\New folder (2)\pos1\bin\Debug\pos1.pdb
+C:\Users\Delight Kapfudza\Videos\New folder (2)\pos1\bin\Debug\pos1.xml
+C:\Users\Delight Kapfudza\Videos\New folder (2)\pos1\obj\Debug\pos1.vbproj.AssemblyReference.cache
+C:\Users\Delight Kapfudza\Videos\New folder (2)\pos1\obj\Debug\pos1.Form1.resources
+C:\Users\Delight Kapfudza\Videos\New folder (2)\pos1\obj\Debug\pos1.Resources.resources
+C:\Users\Delight Kapfudza\Videos\New folder (2)\pos1\obj\Debug\pos1.vbproj.GenerateResource.cache
+C:\Users\Delight Kapfudza\Videos\New folder (2)\pos1\obj\Debug\pos1.vbproj.CoreCompileInputs.cache
+C:\Users\Delight Kapfudza\Videos\New folder (2)\pos1\obj\Debug\pos1.exe
+C:\Users\Delight Kapfudza\Videos\New folder (2)\pos1\obj\Debug\pos1.xml
+C:\Users\Delight Kapfudza\Videos\New folder (2)\pos1\obj\Debug\pos1.pdb
+C:\Users\Delight Kapfudza\Videos\New folder (2)\pos1\obj\Debug\pos1.frmHome.resources
+C:\Users\Delight Kapfudza\Videos\New folder (2)\pos1\bin\Debug\Guna.UI2.dll
+C:\Users\Delight Kapfudza\Videos\New folder (2)\pos1\obj\Debug\pos1.frmProduct.resources
+C:\Users\Delight Kapfudza\Videos\New folder (2)\pos1\obj\Debug\pos1.vbproj.Up2Date
+C:\Users\Delight Kapfudza\Videos\New folder (2)\pos1\obj\Debug\pos1.frmSupplier.resources
+C:\Users\Delight Kapfudza\Videos\New folder (2)\pos1\obj\Debug\pos1.frmCustomer.resources
+C:\Users\Delight Kapfudza\Videos\New folder (2)\pos1\obj\Debug\pos1.frmBilling.resources
+C:\Users\Delight Kapfudza\Videos\Pos1 (main)\pos1\bin\Debug\pos1.exe.config
+C:\Users\Delight Kapfudza\Videos\Pos1 (main)\pos1\bin\Debug\pos1.exe
+C:\Users\Delight Kapfudza\Videos\Pos1 (main)\pos1\bin\Debug\pos1.pdb
+C:\Users\Delight Kapfudza\Videos\Pos1 (main)\pos1\bin\Debug\pos1.xml
+C:\Users\Delight Kapfudza\Videos\Pos1 (main)\pos1\obj\Debug\pos1.vbproj.AssemblyReference.cache
+C:\Users\Delight Kapfudza\Videos\Pos1 (main)\pos1\obj\Debug\pos1.Form1.resources
+C:\Users\Delight Kapfudza\Videos\Pos1 (main)\pos1\obj\Debug\pos1.frmBilling.resources
+C:\Users\Delight Kapfudza\Videos\Pos1 (main)\pos1\obj\Debug\pos1.frmCustomer.resources
+C:\Users\Delight Kapfudza\Videos\Pos1 (main)\pos1\obj\Debug\pos1.frmHome.resources
+C:\Users\Delight Kapfudza\Videos\Pos1 (main)\pos1\obj\Debug\pos1.frmProduct.resources
+C:\Users\Delight Kapfudza\Videos\Pos1 (main)\pos1\obj\Debug\pos1.frmSupplier.resources
+C:\Users\Delight Kapfudza\Videos\Pos1 (main)\pos1\obj\Debug\pos1.Resources.resources
+C:\Users\Delight Kapfudza\Videos\Pos1 (main)\pos1\obj\Debug\pos1.vbproj.GenerateResource.cache
+C:\Users\Delight Kapfudza\Videos\Pos1 (main)\pos1\obj\Debug\pos1.vbproj.CoreCompileInputs.cache
+C:\Users\Delight Kapfudza\Videos\Pos1 (main)\pos1\obj\Debug\pos1.vbproj.Up2Date
+C:\Users\Delight Kapfudza\Videos\Pos1 (main)\pos1\obj\Debug\pos1.exe
+C:\Users\Delight Kapfudza\Videos\Pos1 (main)\pos1\obj\Debug\pos1.xml
+C:\Users\Delight Kapfudza\Videos\Pos1 (main)\pos1\obj\Debug\pos1.pdb
+C:\Users\Delight Kapfudza\Videos\VB PROJECTS\Pos1 (main)\pos1\bin\Debug\pos1.exe.config
+C:\Users\Delight Kapfudza\Videos\VB PROJECTS\Pos1 (main)\pos1\bin\Debug\pos1.exe
+C:\Users\Delight Kapfudza\Videos\VB PROJECTS\Pos1 (main)\pos1\bin\Debug\pos1.pdb
+C:\Users\Delight Kapfudza\Videos\VB PROJECTS\Pos1 (main)\pos1\bin\Debug\pos1.xml
+C:\Users\Delight Kapfudza\Videos\VB PROJECTS\Pos1 (main)\pos1\obj\Debug\pos1.vbproj.AssemblyReference.cache
+C:\Users\Delight Kapfudza\Videos\VB PROJECTS\Pos1 (main)\pos1\obj\Debug\pos1.Form1.resources
+C:\Users\Delight Kapfudza\Videos\VB PROJECTS\Pos1 (main)\pos1\obj\Debug\pos1.frmBilling.resources
+C:\Users\Delight Kapfudza\Videos\VB PROJECTS\Pos1 (main)\pos1\obj\Debug\pos1.frmCategory.resources
+C:\Users\Delight Kapfudza\Videos\VB PROJECTS\Pos1 (main)\pos1\obj\Debug\pos1.frmCustomer.resources
+C:\Users\Delight Kapfudza\Videos\VB PROJECTS\Pos1 (main)\pos1\obj\Debug\pos1.frmHome.resources
+C:\Users\Delight Kapfudza\Videos\VB PROJECTS\Pos1 (main)\pos1\obj\Debug\pos1.frmProduct.resources
+C:\Users\Delight Kapfudza\Videos\VB PROJECTS\Pos1 (main)\pos1\obj\Debug\pos1.frmSupplier.resources
+C:\Users\Delight Kapfudza\Videos\VB PROJECTS\Pos1 (main)\pos1\obj\Debug\pos1.Resources.resources
+C:\Users\Delight Kapfudza\Videos\VB PROJECTS\Pos1 (main)\pos1\obj\Debug\pos1.vbproj.GenerateResource.cache
+C:\Users\Delight Kapfudza\Videos\VB PROJECTS\Pos1 (main)\pos1\obj\Debug\pos1.vbproj.CoreCompileInputs.cache
+C:\Users\Delight Kapfudza\Videos\VB PROJECTS\Pos1 (main)\pos1\obj\Debug\pos1.vbproj.Up2Date
+C:\Users\Delight Kapfudza\Videos\VB PROJECTS\Pos1 (main)\pos1\obj\Debug\pos1.exe
+C:\Users\Delight Kapfudza\Videos\VB PROJECTS\Pos1 (main)\pos1\obj\Debug\pos1.xml
+C:\Users\Delight Kapfudza\Videos\VB PROJECTS\Pos1 (main)\pos1\obj\Debug\pos1.pdb
